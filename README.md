@@ -84,31 +84,51 @@
 
 # 🚀 Featured Projects
 
+<p align="center">
+  A selection of my recent work. Each project is built with modern technologies and best practices.
+</p>
+
 <table>
 <tr>
 <td width="50%">
 
 ## 🎁 GiftNest
-Modern Laravel-based eCommerce gift platform with:
-- Authentication System  
-- Cart & Checkout  
-- Admin Dashboard  
-- Product Management  
 
-**Tech Stack:** Laravel, PHP, MySQL
+**Laravel E-Commerce Platform**
+
+Modern Laravel-based eCommerce gift platform with a complete shopping experience.
+
+✅ Authentication System  
+✅ Cart & Checkout  
+✅ Admin Dashboard  
+✅ Product Management  
+
+**Tech Stack:** Laravel • PHP • MySQL  
+
+<a href="https://github.com/Mahedi454/GiftNest_-PHP-Laravel_Project">
+  <img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%">
 
 ## 🚀 Shei-IT
-Modern IT agency platform featuring:
-- Modern UI/UX  
-- Service Management  
-- SEO Optimization  
-- Responsive Design  
 
-**Tech Stack:** Next.js, TypeScript, Node.js
+**IT Agency Platform**
+
+Modern IT agency platform featuring powerful design and smooth experience.
+
+✅ Modern UI/UX  
+✅ Service Management  
+✅ SEO Optimization  
+✅ Responsive Design  
+
+**Tech Stack:** Next.js • TypeScript • Node.js  
+
+<a href="https://github.com/Mahedi454/Shei-IT">
+  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -117,31 +137,57 @@ Modern IT agency platform featuring:
 <td width="50%">
 
 ## 🌐 Personal Portfolio
-Professional developer portfolio with:
-- Dark/Light Theme  
-- Responsive Layout  
-- Modern Animations  
-- SEO Friendly  
 
-**Tech Stack:** React, TypeScript
+**Developer Portfolio Website**
+
+Professional developer portfolio with modern design and smooth animations.
+
+✅ Dark/Light Theme  
+✅ Responsive Layout  
+✅ Modern Animations  
+✅ SEO Friendly  
+
+**Tech Stack:** React • TypeScript • Tailwind CSS  
+
+<a href="https://github.com/Mahedi454/personal_portfolio">
+  <img src="https://img.shields.io/badge/View_Project-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%">
 
 ## 📱 Flutter UI Projects
-Collection of modern mobile interfaces:
-- Authentication UI  
-- eCommerce UI  
-- Animations  
-- Responsive Screens  
 
-**Tech Stack:** Flutter, Dart
+**Mobile UI Collection**
+
+Collection of modern mobile app interfaces built with Flutter and clean animations.
+
+✅ Authentication UI  
+✅ eCommerce UI  
+✅ Animations  
+✅ Responsive Screens  
+
+**Tech Stack:** Flutter • Dart  
+
+<a href="https://github.com/Mahedi454/Flutter_login_form">
+  <img src="https://img.shields.io/badge/View_Project-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
+---
+
+<p align="center">
+  <a href="https://github.com/Mahedi454?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://mahedihasan.tech">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 ---
 
 # 📊 GitHub Analytics
