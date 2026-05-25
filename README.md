@@ -147,12 +147,13 @@ Collection of modern mobile interfaces:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mahedi454&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Mahedi454&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahedi454&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://streak-stats.demolab.com?user=Mahedi454&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahedi454&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahedi454&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
