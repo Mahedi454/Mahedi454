@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=Mahedi454&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
----
 
 # 💫 About Me
 
