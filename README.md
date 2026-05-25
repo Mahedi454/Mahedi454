@@ -192,13 +192,17 @@ Collection of modern mobile app interfaces built with Flutter and clean animatio
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahedi454&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://streak-stats.demolab.com?user=Mahedi454&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahedi454&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahedi454&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahedi454&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahedi454&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahedi454&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahedi454&theme=tokyonight&utcOffset=6" />
 </p>
 
 ---
