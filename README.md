@@ -187,7 +187,6 @@ Collection of modern mobile app interfaces built with Flutter and clean animatio
     <img src="https://img.shields.io/badge/Visit_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
----
 
 # 📊 GitHub Analytics
 
